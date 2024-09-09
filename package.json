@@ -1,0 +1,16 @@
+{
+  "name": "azure-b2c-js-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/msal-node": "^2.13.1",
+    "axios": "^1.7.7"
+  }
+}
